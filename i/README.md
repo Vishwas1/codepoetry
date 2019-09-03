@@ -8,7 +8,7 @@ If you have a node or tsc in your system then you can run the code using those c
 
 ## cool stuffs 
 
-Was looking for name of this poerty and my friend came up with this name `i`. 
+Was looking for name of this poerty and my friend (Abhijit) came up with this name `i`. 
 
 Rational:
 
